@@ -1,0 +1,17 @@
+How often do saline/quinpirole rats exhibit biomarkers that can be used to classify them?
+
+home base return time: average 2.5 minutes for saline, average 0.25 minutes for QNP (max 3 min, 0.33 min) (Szechtman)
+
+exploratory behaviour: observed for 5 minutes in elevated plus maze, shows significant difference between saline/QNP  (Sesia)
+
+marble burying: test duration of 30 minutes, 20 marbles present, OCD mice burried on average 50% of marbles = 10 marbles, so one marble per 3 min (min 40% so 3.75 min). wild mice average 25% so 6 min, min 20% so 7.5 min. (Shmelkov)
+
+-- references --
+
+Szechtman: Compulsive checking behavior of quinpirole-sensitized rats as an animal model of Obsessive-Compulsive Disorder(OCD): form and control
+
+Sesia: Evaluation of Animal Models of Obsessive-Compulsive Disorder: Correlation with Phasic Dopamine Neuron Activity
+
+Shmelkov: Slitrk5 deficiency impairs corticostriatal circuitry and leads to obsessive-compulsive–like behaviors in mice
+
+

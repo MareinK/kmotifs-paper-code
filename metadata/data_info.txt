@@ -1,0 +1,13 @@
+2013
+not so good data
+four labels: QNP, control, QNP+mem, QNP+more mem
+
+2014
+good data, but use only up to injection 11 becauase animals became acclimatized (mail katarzyna)
+two labels: QNP, control
+
+2016
+good data
+
+utrecht
+larger time interval between location measurements (0.066 vs 0.04) (has been rescaled to be 0.04 in data_final).
